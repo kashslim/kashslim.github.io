@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Software Engineering Entry 1"
-date:       2019-12-16 20:42:12 +0000
+date:       2019-12-16 15:42:13 -0500
 permalink:  software_engineering_entry_1
 ---
 
